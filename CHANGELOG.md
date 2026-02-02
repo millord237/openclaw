@@ -4,6 +4,10 @@ Docs: https://docs.openclaw.ai
 
 ## 2026.2.2
 
+### Changes
+
+- Docs: seed zh-CN translations. (#6619) Thanks @joshp123.
+
 ### Fixes
 
 - Telegram: add download timeouts for file fetches. (#6914) Thanks @hclsys.
